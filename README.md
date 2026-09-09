@@ -97,7 +97,7 @@ For future take-home tests, I will:
 
 ## Data Quality Check
 
-![Data Quality Check](data_quality)
+![Data Quality Check](data_quality.png)
 
 ## Row Dataset
 
