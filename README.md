@@ -93,7 +93,7 @@ For future take-home tests, I will:
 
 ## PivotTable Analysis
 
-![PivotTable Analysis](source_of_dashboard)
+![PivotTable Analysis](source_of_dashboard.png)
 
 ## Data Quality Check
 
