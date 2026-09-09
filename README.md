@@ -89,21 +89,26 @@ For future take-home tests, I will:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](sales_dashboard)
 
 ## PivotTable Analysis
 
-![PivotTable Analysis](screenshots/pivot-analysis.png)
+![PivotTable Analysis](source_of_dashboard)
 
 ## Data Quality Check
 
-![Data Quality Check](screenshots/data-quality.png)
+![Data Quality Check](data_quality)
+
+## Row Dataset
+
+![Raw_Indian_Retail_Store](Raw_Indian_Retail_Store.csv)
 
 ## Project File
 
 The complete workbook is available in:
 
-`Indian_Retail_Sales_Takehome.xlsx`
+![Indian_Retail_Sales_Takehome](indian_retail_sales_deshboard.xlsx)
+
 
 ## Learning Outcome
 
