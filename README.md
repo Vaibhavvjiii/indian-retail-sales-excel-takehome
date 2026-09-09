@@ -89,7 +89,7 @@ For future take-home tests, I will:
 
 ## Dashboard Preview
 
-![Dashboard](sales_dashboard)
+![Dashboard](sales_dashboard.png)
 
 ## PivotTable Analysis
 
